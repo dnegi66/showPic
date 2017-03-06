@@ -6,4 +6,6 @@
 //  Copyright © 2017年 ikegawa kazuhiro. All rights reserved.
 //
 
+//　以下、テスト用
+
 import Foundation
