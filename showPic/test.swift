@@ -8,4 +8,6 @@
 
 //　以下、テスト用
 
+// master用
+
 import Foundation
